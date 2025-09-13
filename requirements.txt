@@ -1,8 +1,9 @@
 streamlit
 opencv-python-headless
 ultralytics
-pandas
 numpy
-Pillow
-plotly
+pandas
 joblib
+pillow
+plotly
+pyttsx3
