@@ -1,0 +1,8 @@
+train: C:/Users/VAISHNAVI S/Downloads/coconut/coconut/view/train
+val: C:/Users/VAISHNAVI S/Downloads/coconut/coconut/view/val
+test: C:/Users/VAISHNAVI S/Downloads/coconut/coconut/view/test  # optional
+
+names:
+  0: bottom
+  1: side
+  2: top

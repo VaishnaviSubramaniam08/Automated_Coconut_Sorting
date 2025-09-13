@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Coconut/coconut/runs/mlflow/820741338546532370/d4485e50af0c4432abecf6dd9154099b/artifacts
+end_time: 1756926088068
+entry_point_name: ''
+experiment_id: '820741338546532370'
+lifecycle_stage: active
+run_id: d4485e50af0c4432abecf6dd9154099b
+run_name: train
+run_uuid: d4485e50af0c4432abecf6dd9154099b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756925292459
+status: 3
+tags: []
+user_id: jahag
